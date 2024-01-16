@@ -1,0 +1,29 @@
+.container-fluid{
+    width: 96% !important;
+}
+
+.content{ 
+    margin-top: 20px;
+}
+
+.product{
+    margin-top: 25px;
+}
+
+.active{
+    background-color: yellow !important;
+}
+
+.font-size-small{
+    font-size: 11px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.list-group-item{
+    height: 60px !important;
+}
+.hooks{
+    text-align: center;
+}
+
